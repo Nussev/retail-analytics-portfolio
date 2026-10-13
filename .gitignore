@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Personal crash-course notes
+data_manipulation_w_pandas/
+
+# macOS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

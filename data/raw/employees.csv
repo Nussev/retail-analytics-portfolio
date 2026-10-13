@@ -1,0 +1,301 @@
+employee_id,first_name,last_name,role,store_id,city,state,hire_date
+E0001,Sofia,Thompson,Sales Lead,S005,Seattle,WA,2022-11-13
+E0002,Evelyn,Brown,Assistant Manager,S014,New York,NY,2019-12-18
+E0003,Christopher,Lopez,Assistant Manager,S011,Chicago,IL,2024-02-09
+E0004,Grace,Thomas,Assistant Manager,S016,Dallas,TX,2020-02-04
+E0005,Amelia,Hernandez,Sales Associate,S010,Seattle,WA,2019-07-03
+E0006,John,Ramirez,Assistant Manager,S021,Chicago,IL,2020-03-23
+E0007,Brian,Taylor,Store Manager,S018,Columbus,OH,2020-10-17
+E0008,Lily,Wilson,Customer Service,S008,Charlotte,NC,2023-07-18
+E0009,Joshua,Lee,customer service,S013,Columbus,OH,2019-04-30
+E0010,Ryan,Anderson,Sales Lead,S014,Austin,TX,2023-05-12
+E0011,Anthony,Miller,Assistant Manager,S025,New York,NY,2019-09-14
+E0012,Joseph,Sanchez,Sales Lead,S006,San Francisco,CA,2023-02-07
+E0013,Ryan,Anderson,sales associate,S009,Charlotte,NC,2024-06-27
+E0014,Emily,Martin,Customer Service,S020,Los Angeles,CA,2023-05-27
+E0015,Daniel,Lopez,Assistant Manager,S028,San Francisco,CA,2024-02-19
+E0016,Joshua,Clark,Assistant Manager,S030,Austin,TX,2025-08-14
+E0017,Matthew,Hernandez,Sales Associate,S008,Philadelphia,PA,2022-06-04
+E0018,Joshua,Lopez,store manager,S017,Chicago,IL,2023-05-11
+E0019,Natalie,Jones,Sales Lead,S013,Phoenix,AZ,2023-09-29
+E0020,Abigail,Lee,Sales Lead,S023,Columbus,OH,2020-12-10
+E0021,Andrew,Thomas,Assistant Manager,S005,San Diego,CA,2021-02-05
+E0022,Amelia,Martin,Sales Associate,S028,Charlotte,NC,2023-01-10
+E0023,Abigail,Jones,Store Manager,S027,New York,NY,2023-04-22
+E0024,Ella,Lee,customer service,S014,San Diego,CA,2024-07-07
+E0025,Amelia,Thomas,store manager,S003,Phoenix,AZ,2025-05-04
+E0026,Kevin,Martinez,Sales Associate,S009,New York,NY,2021-07-09
+E0027,Justin,Garcia,Customer Service,S019,San Diego,CA,2024-07-21
+E0028,Ella,Brown,sales lead,S004,San Diego,CA,2022-01-02
+E0029,Sophia,Moore,Sales Associate,UNKNOWN,San Diego,CA,2023-12-13
+E0030,Anthony,Wilson,Sales Associate,S024,San Diego,CA,2021-10-10
+E0031,Robert,Anderson,Assistant Manager,S012,Miami,FL,2019-12-23
+E0032,Daniel,Harris,Store Manager,S007,Seattle,WA,2025-08-05
+E0033,Hannah,Lee,Customer Service,S006,Nashville,TN,2020-07-24
+E0034,Anthony,Sanchez,Sales Associate,S019,Dallas,TX,2022-12-07
+E0035,Eric,Martin,Sales Lead,S006,San Diego,CA,2022-08-18
+E0036,Justin,Jackson,Assistant Manager,S028,Miami,FL,2024-10-08
+E0037,Matthew,Harris,customer service,S030,Chicago,IL,2019-08-31
+E0038,Matthew,Thompson,store manager,S008,Atlanta,GA,2020-08-22
+E0039,Brian,Harris,Customer Service,S016,Charlotte,NC,2020-08-05
+E0040,Eric,Lee,Customer Service,S013,San Francisco,CA,2024-01-26
+E0041,David,Gonzalez,Sales Lead,S024,Philadelphia,PA,2022-02-13
+E0042,Harper,Thomas,Assistant Manager,S019,Nashville,TN,2019-01-11
+E0043,Harper,Lee,Assistant Manager,S028,Philadelphia,PA,2019-09-17
+E0044,Isabella,Miller,Customer Service,S027,San Diego,CA,2021-05-17
+E0045,Eric,Hernandez,Assistant Manager,S011,Portland,OR,2025-02-19
+E0046,Matthew,Jackson,Customer Service,S026,San Francisco,CA,2022-11-08
+E0047,Robert,Brown,Customer Service,S001,Boston,MA,2020-05-23
+E0048,Amelia,Anderson,Sales Associate,S014,Columbus,OH,2021-04-08
+E0049,Brandon,Garcia,Assistant Manager,S003,Detroit,MI,2023-01-16
+E0050,David,Lopez,Store Manager,S002,Atlanta,GA,2023-06-12
+E0051,Kevin,Wilson,Sales Associate,S023,Miami,FL,2020-01-25
+E0052,Anthony,Thomas,Sales Associate,S005,New York,NY,2025-08-28
+E0053,Grace,Perez,Customer Service,S001,Houston,TX,2019-02-03
+E0054,Daniel,Ramirez,Customer Service,S023,Charlotte,NC,2020-06-25
+E0055,William,Davis,Customer Service,S003,Portland,OR,2020-02-24
+E0056,Emily,Lopez,Assistant Manager,S005,Chicago,IL,2023-04-17
+E0057,Christopher,Williams,Sales Lead,S019,Detroit,MI,2019-02-04
+E0058,Andrew,Anderson,Assistant Manager,S024,Austin,TX,2021-05-22
+E0059,Mia,Martin,Customer Service,S028,Detroit,MI,2021-06-08
+E0060,Joseph,Jones,Sales Associate,S019,Philadelphia,PA,2023-04-22
+E0061,Charlotte,Hernandez,Store Manager,S008,Nashville,TN,2022-02-08
+E0062,Brian,Moore,sales lead,UNKNOWN,Philadelphia,PA,2025-10-24
+E0063,John,Ramirez,assistant manager,S007,Miami,FL,2024-10-21
+E0064,Ella,Miller,Customer Service,S010,Austin,TX,2019-08-12
+E0065,Abigail,Gonzalez,sales associate,S008,Houston,TX,2024-08-08
+E0066,William,Taylor,Sales Associate,S012,Austin,TX,2022-07-20
+E0067,Ava,Ramirez,Sales Lead,S014,Detroit,MI,2023-02-05
+E0068,Joshua,Harris,Customer Service,S025,San Diego,CA,2019-10-26
+E0069,Sofia,Williams,Sales Associate,S009,New York,NY,2021-06-02
+E0070,Michael,Sanchez,Customer Service,S017,Boston,MA,2022-03-19
+E0071,Mia,Wilson,Customer Service,S003,Los Angeles,CA,2025-01-06
+E0072,Hannah,Jones,Assistant Manager,S003,San Diego,CA,2022-06-23
+E0073,Ella,Robinson,Store Manager,UNKNOWN,Philadelphia,PA,2020-09-28
+E0074,Emily,Gonzalez,Sales Lead,S021,San Diego,CA,2019-09-28
+E0075,Charlotte,White,Store Manager,S002,Miami,FL,2021-09-28
+E0076,Charlotte,Brown,Customer Service,S020,Philadelphia,PA,2025-10-29
+E0077,Brandon,Perez,Store Manager,S004,Boston,MA,2019-02-21
+E0078,James,Garcia,Customer Service,S012,Detroit,MI,2024-11-12
+E0079,Jason,Garcia,Assistant Manager,S005,Los Angeles,CA,2022-01-05
+E0080,John,Hernandez,Customer Service,S009,Chicago,IL,2024-11-15
+E0081,Jason,Thompson,Sales Lead,S021,Philadelphia,PA,2019-11-12
+E0082,Harper,Taylor,Assistant Manager,S002,Portland,OR,2024-08-08
+E0083,Andrew,Lopez,Store Manager,S009,San Francisco,CA,2020-02-26
+E0084,Daniel,Davis,Sales Lead,S001,San Francisco,CA,2019-06-30
+E0085,Brian,Johnson,Customer Service,S012,New York,NY,2023-04-18
+E0086,Joshua,Robinson,Sales Associate,S018,Detroit,MI,2023-09-14
+E0087,Emily,Davis,Customer Service,S030,Houston,TX,2022-08-03
+E0088,William,Jackson,Assistant Manager,S004,Atlanta,GA,2024-08-18
+E0089,Joshua,Davis,Sales Lead,S002,Boston,MA,2023-07-01
+E0090,Harper,Ramirez,Assistant Manager,S025,Philadelphia,PA,2022-06-26
+E0091,David,Moore,Customer Service,S001,Charlotte,NC,2023-02-20
+E0092,Justin,Jackson,Assistant Manager,S024,Dallas,TX,2021-09-20
+E0093,Sophia,Jackson,Customer Service,S025,Seattle,WA,2021-03-11
+E0094,Brian,Jones,Sales Associate,S030,San Diego,CA,2023-08-07
+E0095,Kevin,Moore,Assistant Manager,S021,New York,NY,2019-02-09
+E0096,James,Harris,Customer Service,S028,Charlotte,NC,2022-06-13
+E0097,Anthony,Taylor,Store Manager,S014,Chicago,IL,2024-07-08
+E0098,Christopher,Thompson,Assistant Manager,S003,Boston,MA,2019-06-29
+E0099,Grace,Wilson,Assistant Manager,UNKNOWN,Houston,TX,2019-12-14
+E0100,Joseph,Taylor,Store Manager,S021,San Francisco,CA,2023-06-04
+E0101,Sofia,Jackson,Sales Associate,S014,Philadelphia,PA,2020-06-19
+E0102,Justin,Rodriguez,Assistant Manager,S030,Houston,TX,2023-05-29
+E0103,Emily,Anderson,Assistant Manager,S008,Charlotte,NC,2019-11-02
+E0104,Matthew,Harris,Sales Lead,S004,Dallas,TX,2020-09-28
+E0105,Andrew,Anderson,Customer Service,S011,Chicago,IL,2023-07-24
+E0106,Chloe,Lopez,Store Manager,S015,Chicago,IL,2022-06-16
+E0107,Jason,Ramirez,Sales Associate,S003,Seattle,WA,2020-10-07
+E0108,Natalie,Johnson,Store Manager,S027,Miami,FL,2022-09-04
+E0109,David,Thompson,Store Manager,S012,Detroit,MI,2023-06-12
+E0110,Michael,Perez,Assistant Manager,UNKNOWN,Los Angeles,CA,2020-12-13
+E0111,Isabella,Ramirez,Customer Service,S018,New York,NY,2025-03-03
+E0112,Joseph,Anderson,Sales Associate,S026,Houston,TX,2020-07-26
+E0113,James,Johnson,Store Manager,S005,Chicago,IL,2021-03-22
+E0114,Sophia,Perez,Sales Associate,S019,Denver,CO,2025-07-28
+E0115,William,Smith,Sales Associate,S007,Atlanta,GA,2023-12-22
+E0116,David,Lewis,Assistant Manager,S004,Detroit,MI,2019-06-24
+E0117,Michael,Garcia,Sales Lead,S014,Seattle,WA,2023-06-06
+E0118,John,Gonzalez,Customer Service,S006,Portland,OR,2022-12-20
+E0119,Joshua,Rodriguez,Assistant Manager,S015,Dallas,TX,2020-08-31
+E0120,Hannah,Martin,Sales Lead,UNKNOWN,Boston,MA,2022-04-23
+E0121,Mia,Lewis,Sales Lead,S016,Portland,OR,2019-09-07
+E0122,Eric,Gonzalez,Store Manager,S014,Philadelphia,PA,2021-03-27
+E0123,Brian,Lee,Sales Lead,S026,Los Angeles,CA,2019-03-21
+E0124,Olivia,Thomas,Sales Lead,S026,Denver,CO,2024-06-08
+E0125,Madison,Taylor,Assistant Manager,S013,Nashville,TN,2022-01-12
+E0126,John,Hernandez,Sales Lead,S008,Columbus,OH,2019-05-01
+E0127,Michael,Sanchez,Customer Service,S017,Atlanta,GA,2023-01-04
+E0128,Kevin,Garcia,Sales Associate,S008,San Francisco,CA,2021-09-14
+E0129,Chloe,Clark,Sales Associate,S025,Atlanta,GA,2021-06-17
+E0130,Ava,Lopez,Store Manager,S006,San Francisco,CA,2021-08-26
+E0131,Emily,Sanchez,Assistant Manager,S030,San Francisco,CA,2025-08-20
+E0132,Olivia,Jackson,Sales Lead,S005,New York,NY,2025-04-25
+E0133,Abigail,Moore,Assistant Manager,UNKNOWN,Dallas,TX,2024-07-01
+E0134,David,Johnson,Store Manager,S020,Boston,MA,2021-06-15
+E0135,Grace,Thomas,Sales Associate,S011,New York,NY,2021-04-05
+E0136,Emma,Thompson,Store Manager,S030,Detroit,MI,2022-08-18
+E0137,John,Jones,Sales Lead,S023,Boston,MA,2020-08-03
+E0138,Grace,Ramirez,Assistant Manager,S003,Chicago,IL,2023-03-11
+E0139,Sofia,Brown,Assistant Manager,S010,Denver,CO,2022-08-14
+E0140,Andrew,White,Customer Service,S026,Detroit,MI,2024-06-18
+E0141,Joshua,Thompson,Sales Lead,S023,Charlotte,NC,2023-01-01
+E0142,Sofia,Clark,Store Manager,S013,Houston,TX,2022-06-10
+E0143,Matthew,Garcia,Sales Associate,S023,Miami,FL,2025-06-04
+E0144,Madison,Johnson,store manager,S020,Denver,CO,2022-07-27
+E0145,Kevin,Lee,Sales Lead,S004,Austin,TX,2024-07-25
+E0146,Emma,White,Sales Associate,S008,Detroit,MI,2022-11-21
+E0147,Andrew,Lee,Sales Associate,S027,Charlotte,NC,2022-10-07
+E0148,James,Rodriguez,Store Manager,S008,Seattle,WA,2019-10-05
+E0149,Jason,Sanchez,Sales Associate,S024,Nashville,TN,2019-01-06
+E0150,Ava,Anderson,Customer Service,S006,Boston,MA,2023-08-23
+E0151,Ava,Lopez,sales lead,S013,Portland,OR,2020-02-20
+E0152,Madison,Lee,Store Manager,S006,Portland,OR,2024-01-23
+E0153,Robert,Martinez,Sales Associate,S011,Philadelphia,PA,2021-12-05
+E0154,William,Hernandez,Store Manager,S029,Chicago,IL,2023-03-18
+E0155,William,Moore,Sales Associate,S011,Columbus,OH,2025-08-30
+E0156,Evelyn,Thompson,Sales Associate,S014,Austin,TX,2020-11-06
+E0157,Charlotte,Garcia,Sales Associate,S004,Austin,TX,2022-09-18
+E0158,Ryan,Wilson,Sales Lead,S024,Dallas,TX,2025-01-21
+E0159,Justin,Martinez,Store Manager,S004,Atlanta,GA,2019-07-23
+E0160,Madison,Moore,Customer Service,S005,Denver,CO,2019-08-12
+E0161,James,Wilson,Sales Associate,S010,Nashville,TN,2025-09-24
+E0162,Ryan,Brown,Sales Associate,S007,Portland,OR,2020-11-30
+E0163,David,Thomas,Sales Associate,S010,Miami,FL,2023-06-17
+E0164,Abigail,Lewis,Assistant Manager,S003,Portland,OR,2025-02-06
+E0165,Joshua,Lopez,Customer Service,UNKNOWN,Denver,CO,2021-02-03
+E0166,Robert,Rodriguez,Customer Service,S015,Seattle,WA,2021-12-14
+E0167,Eric,Jackson,Sales Associate,S005,Houston,TX,2020-02-01
+E0168,Olivia,Sanchez,Sales Lead,S014,Philadelphia,PA,2025-08-12
+E0169,Lily,Johnson,Customer Service,S027,Houston,TX,2024-11-10
+E0170,Chloe,Perez,Customer Service,S019,Phoenix,AZ,2021-08-23
+E0171,Brandon,Williams,Customer Service,S029,Portland,OR,2019-05-23
+E0172,Madison,Lewis,Sales Lead,S026,Los Angeles,CA,2025-05-29
+E0173,Christopher,Brown,Customer Service,S006,Austin,TX,2020-11-15
+E0174,Ryan,Jones,Sales Associate,S014,Dallas,TX,2019-11-17
+E0175,Ryan,Clark,Store Manager,S027,Phoenix,AZ,2025-09-03
+E0176,Emily,Robinson,Sales Associate,S003,Atlanta,GA,2023-05-09
+E0177,Isabella,Moore,Assistant Manager,S028,San Diego,CA,2022-02-05
+E0178,Harper,Robinson,sales associate,S026,Los Angeles,CA,2025-08-03
+E0179,Mia,Brown,Customer Service,S005,Los Angeles,CA,2020-08-30
+E0180,Sofia,Jackson,sales associate,S030,San Francisco,CA,2020-03-08
+E0181,Joseph,Sanchez,Assistant Manager,S028,San Francisco,CA,2025-01-02
+E0182,Mia,Rodriguez,Customer Service,S021,Nashville,TN,2024-06-11
+E0183,Natalie,Thomas,Sales Associate,S006,San Francisco,CA,2022-02-02
+E0184,Christopher,Martin,Sales Lead,S022,Denver,CO,2023-07-04
+E0185,Isabella,Lewis,Assistant Manager,S023,Boston,MA,2021-08-31
+E0186,Evelyn,Robinson,Assistant Manager,S029,Boston,MA,2023-03-06
+E0187,Emma,Clark,Assistant Manager,S010,New York,NY,2022-02-22
+E0188,Joseph,Ramirez,Store Manager,S005,Portland,OR,2022-05-15
+E0189,Emily,Rodriguez,Customer Service,S020,Seattle,WA,2020-01-01
+E0190,Amelia,Miller,Customer Service,S024,Dallas,TX,2024-06-07
+E0191,Sophia,Clark,Sales Associate,S017,Los Angeles,CA,2020-10-13
+E0192,Brandon,Thompson,Sales Lead,S013,Philadelphia,PA,2020-07-09
+E0193,Madison,Smith,Store Manager,S007,Los Angeles,CA,2021-04-02
+E0194,Brian,Johnson,Customer Service,S002,Boston,MA,2023-01-16
+E0195,Eric,Lopez,Customer Service,S017,Dallas,TX,2023-06-14
+E0196,John,Davis,Assistant Manager,UNKNOWN,Chicago,IL,2025-08-30
+E0197,Joshua,Ramirez,Customer Service,S019,Seattle,WA,2025-03-08
+E0198,Olivia,Garcia,Assistant Manager,S024,Nashville,TN,2020-01-06
+E0199,John,Gonzalez,Sales Associate,UNKNOWN,Miami,FL,2025-06-01
+E0200,Kevin,Lee,store manager,S022,Dallas,TX,2021-04-26
+E0201,Mia,Taylor,Sales Associate,S028,Atlanta,GA,2019-02-06
+E0202,Matthew,Lee,Store Manager,S020,Portland,OR,2019-02-04
+E0203,Jason,Martin,Assistant Manager,S023,Houston,TX,2022-02-01
+E0204,Ava,Ramirez,Assistant Manager,S015,Phoenix,AZ,2021-10-29
+E0205,Harper,Martinez,Sales Lead,S027,Dallas,TX,2023-06-15
+E0206,Joseph,Smith,Sales Lead,S022,San Francisco,CA,2023-03-13
+E0207,Natalie,Martin,Assistant Manager,S010,San Diego,CA,2020-03-18
+E0208,William,Hernandez,Assistant Manager,S021,Portland,OR,2022-08-24
+E0209,Jason,Lee,Assistant Manager,UNKNOWN,Atlanta,GA,2020-09-06
+E0210,Brian,Lewis,Sales Associate,S026,Los Angeles,CA,2025-09-23
+E0211,Emily,Perez,Store Manager,S024,Denver,CO,2019-04-15
+E0212,Justin,Rodriguez,Customer Service,UNKNOWN,Portland,OR,2023-05-10
+E0213,Sofia,Thompson,Sales Lead,S027,Boston,MA,2021-02-16
+E0214,Kevin,Perez,Sales Lead,S021,Charlotte,NC,2024-05-02
+E0215,Ella,Martinez,Store Manager,S027,Nashville,TN,2025-04-05
+E0216,Justin,Brown,Customer Service,S005,Columbus,OH,2021-11-25
+E0217,Joshua,Perez,Assistant Manager,S021,San Diego,CA,2020-01-01
+E0218,Olivia,Davis,Assistant Manager,S014,Houston,TX,2022-09-19
+E0219,Jason,Jackson,Assistant Manager,S015,Nashville,TN,2020-04-27
+E0220,Michael,Ramirez,Sales Lead,UNKNOWN,Portland,OR,2019-10-19
+E0221,Ryan,Taylor,Sales Associate,S028,Portland,OR,2023-04-13
+E0222,Brandon,Wilson,Sales Associate,S028,Los Angeles,CA,2020-09-09
+E0223,Ryan,Hernandez,Customer Service,S019,Detroit,MI,2024-02-18
+E0224,Emily,Ramirez,Store Manager,S025,Detroit,MI,2019-11-28
+E0225,Emma,Lee,Store Manager,S011,Portland,OR,2019-08-26
+E0226,Amelia,Rodriguez,Store Manager,S025,New York,NY,2020-11-21
+E0227,Andrew,Thomas,Sales Associate,S005,San Francisco,CA,2023-11-12
+E0228,Isabella,Wilson,Customer Service,S013,Phoenix,AZ,2019-01-20
+E0229,Chloe,Miller,Assistant Manager,S001,Boston,MA,2022-08-12
+E0230,Ryan,Smith,Sales Associate,S021,Los Angeles,CA,2021-10-16
+E0231,Olivia,Martinez,store manager,S004,Houston,TX,2023-04-21
+E0232,Sofia,Martinez,Store Manager,S003,Los Angeles,CA,2019-07-07
+E0233,Justin,Anderson,Sales Lead,S020,Miami,FL,2024-11-16
+E0234,Charlotte,Lewis,Store Manager,S011,Charlotte,NC,2024-06-30
+E0235,Ryan,Garcia,customer service,S001,Nashville,TN,2021-07-24
+E0236,Matthew,Miller,Sales Associate,S019,Houston,TX,2024-08-28
+E0237,Daniel,Lopez,sales associate,S013,Columbus,OH,2021-11-13
+E0238,Hannah,Johnson,Sales Lead,S002,San Diego,CA,2020-03-18
+E0239,Michael,Thompson,sales associate,S014,New York,NY,2023-12-25
+E0240,Daniel,Moore,Assistant Manager,UNKNOWN,Denver,CO,2020-09-19
+E0241,James,Martinez,Customer Service,S022,Dallas,TX,2020-02-18
+E0242,Eric,Martin,sales lead,S023,Los Angeles,CA,2020-07-15
+E0243,Joseph,Taylor,Sales Lead,S004,Phoenix,AZ,2022-03-03
+E0244,Joseph,Thomas,Store Manager,UNKNOWN,Chicago,IL,2021-03-29
+E0245,Grace,Miller,assistant manager,S023,Atlanta,GA,2023-08-06
+E0246,Andrew,Johnson,Sales Lead,S016,Miami,FL,2021-04-30
+E0247,Emma,Davis,Sales Associate,S001,Portland,OR,2019-12-31
+E0248,Madison,Perez,Customer Service,S005,Chicago,IL,2020-01-04
+E0249,William,White,Sales Associate,S029,Los Angeles,CA,2021-11-14
+E0250,Harper,Martinez,Assistant Manager,S015,Houston,TX,2019-07-25
+E0251,Joshua,Ramirez,Sales Associate,S028,Chicago,IL,2022-04-05
+E0252,Emily,Wilson,Sales Associate,S004,Nashville,TN,2019-07-07
+E0253,Matthew,Perez,store manager,S011,New York,NY,2023-01-04
+E0254,Hannah,Rodriguez,Sales Associate,S012,Seattle,WA,2022-11-04
+E0255,Daniel,Gonzalez,Customer Service,S015,Columbus,OH,2022-01-18
+E0256,Evelyn,Sanchez,Customer Service,S021,Denver,CO,2020-11-14
+E0257,Matthew,Thompson,Sales Associate,S028,Chicago,IL,2020-10-14
+E0258,Mia,Robinson,sales lead,S016,Chicago,IL,2025-05-19
+E0259,Joshua,Martin,Customer Service,S025,Seattle,WA,2023-01-08
+E0260,John,Ramirez,Store Manager,S016,Austin,TX,2024-06-22
+E0261,Mia,Anderson,Sales Associate,S003,Chicago,IL,2021-12-07
+E0262,James,Thompson,Sales Lead,S025,Charlotte,NC,2025-06-19
+E0263,Kevin,Perez,Assistant Manager,S017,San Francisco,CA,2024-11-12
+E0264,Joseph,Wilson,Store Manager,S016,Austin,TX,2022-11-17
+E0265,Christopher,Clark,Sales Lead,S029,Denver,CO,2019-08-12
+E0266,Andrew,Taylor,Customer Service,S028,New York,NY,2024-07-23
+E0267,William,Harris,Customer Service,S011,Columbus,OH,2021-09-13
+E0268,Eric,Johnson,Sales Lead,S008,Charlotte,NC,2025-03-04
+E0269,Isabella,Clark,Store Manager,S003,Denver,CO,2024-02-24
+E0270,Madison,Anderson,Sales Associate,S028,Seattle,WA,2024-08-03
+E0271,Emily,Brown,Customer Service,S024,Seattle,WA,2019-03-14
+E0272,Isabella,Wilson,Sales Associate,S018,Chicago,IL,2025-02-27
+E0273,David,Sanchez,Sales Lead,S020,New York,NY,2022-06-01
+E0274,Lily,Miller,Customer Service,S011,Los Angeles,CA,2023-01-28
+E0275,Kevin,Ramirez,Customer Service,S011,Boston,MA,2025-04-13
+E0276,Natalie,Thomas,Assistant Manager,S023,Austin,TX,2024-01-28
+E0277,Joseph,Harris,Store Manager,S001,Chicago,IL,2022-10-30
+E0278,Justin,Moore,Sales Lead,S012,Nashville,TN,2020-03-11
+E0279,Andrew,Thomas,Store Manager,S027,Boston,MA,2023-08-04
+E0280,Jason,Martin,Store Manager,S007,Chicago,IL,2020-05-09
+E0281,Anthony,Anderson,Store Manager,S023,Denver,CO,2022-10-16
+E0282,Mia,Johnson,Sales Lead,S004,Chicago,IL,2024-01-20
+E0283,Sofia,Taylor,Store Manager,S016,Seattle,WA,2019-01-18
+E0284,Michael,Moore,Customer Service,S027,Los Angeles,CA,2025-07-24
+E0285,Ella,Harris,Store Manager,S023,Portland,OR,2025-06-27
+E0286,Matthew,Brown,Customer Service,UNKNOWN,Columbus,OH,2025-09-25
+E0287,Emily,Taylor,Customer Service,S014,Austin,TX,2025-10-30
+E0288,Eric,Gonzalez,Assistant Manager,S010,Houston,TX,2024-01-29
+E0289,Matthew,Wilson,Sales Lead,S023,Detroit,MI,2024-09-29
+E0290,Lily,Ramirez,Assistant Manager,UNKNOWN,Miami,FL,2025-03-17
+E0291,Ryan,Miller,Sales Lead,UNKNOWN,Dallas,TX,2022-04-05
+E0292,Matthew,Thompson,store manager,S017,Nashville,TN,2025-01-31
+E0293,Daniel,Harris,Assistant Manager,S018,Charlotte,NC,2024-05-21
+E0294,Madison,Perez,Customer Service,S022,San Francisco,CA,2024-12-26
+E0295,Charlotte,Sanchez,Sales Associate,S017,Miami,FL,2020-03-12
+E0296,Ava,Jones,Sales Associate,S022,New York,NY,2019-08-20
+E0297,Eric,Harris,Store Manager,UNKNOWN,Dallas,TX,2021-10-23
+E0298,Michael,Thompson,Assistant Manager,UNKNOWN,Detroit,MI,2025-01-25
+E0299,Olivia,Clark,Customer Service,S004,Boston,MA,2025-04-20
+E0300,Lily,Gonzalez,Store Manager,S017,Houston,TX,2022-03-24

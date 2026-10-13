@@ -1,0 +1,21 @@
+store_id,store_name,city,state,region,store_type
+S001,New York Main,New York,NY,Northeast,Urban
+S002,Boston Market,Boston,MA,Northeast,Urban
+S003,Philadelphia Market,Philadelphia,PA,Northeast,Mall
+S004,Chicago Central,Chicago,IL,Midwest,Mall
+S005,Detroit Main,Detroit,MI,Midwest,Suburban
+S006,Columbus Downtown,Columbus,OH,Midwest,Suburban
+S007,Dallas Main,Dallas,TX,South,Mall
+S008,Houston Main,Houston,TX,South,Mall
+S009,Atlanta Main,Atlanta,GA,South,Mall
+S010,Miami Downtown,Miami,FL,South,Suburban
+S011,Charlotte Downtown,Charlotte,NC,South,Urban
+S012,Nashville Central,Nashville,TN,South,Mall
+S013,Denver Market,Denver,CO,West,Urban
+S014,Phoenix Downtown,Phoenix,AZ,West,Mall
+S015,Seattle Main,Seattle,WA,West,Suburban
+S016,Portland Main,Portland,OR,West,Urban
+S017,Los Angeles Downtown,Los Angeles,CA,West,Urban
+S018,San Diego Market,San Diego,CA,West,Urban
+S019,San Francisco Central,San Francisco,CA,West,Suburban
+S020,Austin Market,Austin,TX,South,Suburban
