@@ -49,6 +49,7 @@ Source: `notebooks/01_data_exploration.ipynb`. Each table lists what was found, 
 **Observations**
 - 50,100 rows but only 50,000 unique `order_id`s. 200 rows are involved in duplicate `order_id`s (likely 100 duplicated pairs, to be verified).
 - `store_id` has 120 nulls (49,980 of 50,100 non-null). In the rows sampled, nulls are on `channel = Store` orders. Not yet investigated.
+- found '200' duplicate orders based on order_id
 - `employee_id` has 22,598 nulls. All of them are Online / online orders, so these are expected, not errors.
 - `channel` has inconsistent casing: "Online" vs "online" (other values: Mobile App, Store).
 - `order_status`: Completed, Cancelled, Pending.
